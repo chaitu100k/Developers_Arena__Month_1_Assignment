@@ -93,24 +93,6 @@ The focus is on mastering Python fundamentals, working with data using **NumPy**
 └── README.md
 ```
 
----
-
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/month1-python-data-manipulation.git
-   ```
-2. Navigate to the desired week:
-   ```bash
-   cd month1-python-data-manipulation/week1
-   ```
-3. Run any Python script:
-   ```bash
-   python script_name.py
-   ```
-
----
-
 ## 🛠 Technologies Used
 - **Python** (3.x)
 - **NumPy**
